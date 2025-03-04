@@ -1,3 +1,2 @@
 # Weather-Forecast-Website
-A Weather-Forecast Webiste using Flask and jinja logic.
-It will tell us the current weather.
+A Weather-Forecast Webiste tells us the current weather.
